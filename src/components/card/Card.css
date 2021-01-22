@@ -1,0 +1,11 @@
+.card{
+    /* background-color: aquamarine; */
+    width: 250px;
+    height: 300px;
+    color: white;
+}
+select{
+    background-color: transparent;
+    border: transparent;
+}
+
